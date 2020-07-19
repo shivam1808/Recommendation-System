@@ -1,4 +1,5 @@
 # Recommendation System
+Unsupervised Learning Project
 
 ### Three Section:
 <ul>
@@ -21,6 +22,8 @@ Code: <a href="https://github.com/shivam1808/Recommendation-System/blob/master/R
 Code: <a href="https://github.com/shivam1808/Recommendation-System/blob/master/Product%20Recommender%20System.ipynb">Product Recommender System.ipynb</a>
 
 ## Section C: Collaborative Filtering Recommendation model
+
+This recommendation is however based on Collaborative filtering which uses easily captured user behaviour data. The rating data is represented using a matrix where users are along the rows and products are along the columns.
 
 * Collaborative Filtering
   * Memory based collaborative filtering
